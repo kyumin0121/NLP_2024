@@ -23,3 +23,9 @@
 | # | Sessions | Keywords |
 |:--:|:--:|:--:|
 | 1 | Markdown Language 👫 |font size, font color . bullet point [syntax](https://www.markdownguide.org/basic-syntax/)|
+
+#@markdown 📌 To assign valid variable names
+a = 'Lori'
+_b = 'Sam'
+a_b = 'Ken'
+c_d = 'Jen'
